@@ -31,5 +31,5 @@ This script downloads NASA's Astronomy Picture of the Day (APOD) images either l
 ## Notes
 
 - The script manages API rate limits by waiting if the rate limit is reached.
-- Images that are not downloadable are logged in `images_non_telechargees.txt`.
+- Images that are not downloadable are logged in `images_not_downloaded.txt`.
 
